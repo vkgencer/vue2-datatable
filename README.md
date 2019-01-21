@@ -8,4 +8,4 @@
 
 ## Header settings jquery dependency problem solved.
 
-> `npm install --save vkgencer/vue2-datatable`
+> `npm install --save github:vkgencer/vue2-datatable`
