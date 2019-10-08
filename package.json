@@ -1,5 +1,5 @@
 {
-  "name": "vue2-data-table",
+  "name": "vue2-datatable-vk",
   "description": "The best Datatable for Vue.js 2.x which never sucks",
   "version": "2.3.1",
   "main": "dist/min.js",
