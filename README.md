@@ -6,6 +6,6 @@
 [Documentation](https://OneWayTech.github.io/vue2-datatable/doc) |
 [Online examples](https://OneWayTech.github.io/vue2-datatable/examples/dist)
 
-## Header settings jquery dependency problem solved.
+## Header settings component jquery dependency problem fixed.
 
-> `npm install --save github:vkgencer/vue2-datatable`
+> `npm install --save vue2-data-table
